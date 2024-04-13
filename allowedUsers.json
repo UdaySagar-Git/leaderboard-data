@@ -1,0 +1,11 @@
+{
+  "allowEveryOne": "true",
+  "allowedRoles": [
+    "Admin",
+    "User"
+  ],
+  "allowedUsersMails": [
+    "udaysagar.mail@gmail.com",
+    "cheerlaudaysagar153@gmail.com"
+  ]
+}
