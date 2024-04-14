@@ -7,6 +7,9 @@
   "allowedUsersMails": [
     "udaysagar.mail@gmail.com",
     "cheerlaudaysagar153@gmail.com",
-    "auth branch"
+    "auth branch",
+    [
+      "test@gmail.com"
+    ]
   ]
 }
