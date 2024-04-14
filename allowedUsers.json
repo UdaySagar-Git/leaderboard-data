@@ -5,6 +5,9 @@
     "User"
   ],
   "allowedUsersMails": [
-    "udaysagar.mail@gmail.com"
+    "udaysagar.mail@gmail.com",
+    "user1@gmail.com",
+    "user2@gmail.com",
+    "user3@gmail.com"
   ]
 }
